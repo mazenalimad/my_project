@@ -1,0 +1,4 @@
+start server XAMPP 
+then start Apache server or move root folder to htdocs in XAMPP folders
+then make databases by query in root/resources/data/DB_QueryCreate.sql
+done
