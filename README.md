@@ -1,2 +1,2 @@
-# my_project
-repository for my project for my cv copyright MR_DALTON
+# my_CARD
+repository for my card business for my cv copyright MR_DALTON
